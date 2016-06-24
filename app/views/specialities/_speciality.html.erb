@@ -1,0 +1,4 @@
+<div class="field" id="specialities">
+	<p><b> Select Specialties: </b></p>
+	<%= collection_check_boxes(:employee, :speciality_ids, @specialities, :id, :name) %>
+</div>

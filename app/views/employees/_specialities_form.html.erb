@@ -1,0 +1,6 @@
+<div id="update-container">
+<div class="field" id="specialities">
+    <%= f.label "Select Specialties", :class => 'control-label col-lg-2' %><br>
+    <%= collection_check_boxes(:employee, :speciality_ids, @specialities, :id, :name) %>
+</div>
+</div>
