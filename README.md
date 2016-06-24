@@ -6,3 +6,5 @@ Postgres Version: 9.5.3
 Developed By Larissa R. Cardoso
 
 Based on Masaaki's project. Original App: https://github.com/masaakifuruki/specialists
+
+Deployment environment: https://still-atoll-47136.herokuapp.com/
